@@ -13,9 +13,9 @@ KiCadライブラリへの貢献方法
 4) テキストエディタやライブラリエディタで編集する：
     https://github.com/KiCad/kicad-library/blob/master/KiCad_Library_Convention.txt
 
-5) 編集をコミットする：
+5) 編集した結果をコミットする：
     git add -A
-    git commit -m "place your commit message here"
+    git commit -m "ここに編集の内容を書く"
 
 6) 自分のブランチにプッシュする：
     git push
